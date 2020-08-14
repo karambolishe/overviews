@@ -1,0 +1,5 @@
+notes_to_hide
+infrastructure/.terraform
+tf-state-dev/.terraform
+tf-state-test/.terraform
+
